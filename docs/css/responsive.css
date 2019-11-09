@@ -24,6 +24,9 @@
     .article-wrapper{
         width: 100%;
     }
+    .article-wrapper h1{
+        font: Bold 22px YuGothic;
+    }
     .about-area{
         width: 100%;
     }
@@ -83,12 +86,13 @@
         padding-top: 20px;
     }
     .category-area li{
+        font-size: 14px;
         padding-bottom: 13px;
     }
     footer{
         margin-top: 47px;
         height: 40px;
-        font: Bold 11px YuGothic;
+        font: Bold 10px YuGothic;
     }
     
 }
